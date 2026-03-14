@@ -28,6 +28,9 @@ Packet Tracer
 This project helped me practice routing protocols, network services, redundancy, and real-world network troubleshooting.
 
 ![alt text](image-1.png)
+
 ![alt text](image-2.png)
+
 ![alt text](image-3.png)
+
 ![alt text](image-4-1.jpeg)
